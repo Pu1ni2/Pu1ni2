@@ -104,68 +104,15 @@ Built a privacy-first AI platform for voice and text interviews to capture post-
 
 ## Skills
 
-### Languages
-- Python
-- Java
-- R
-- SQL
-- Shell Scripting
-
-### Machine Learning and AI
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Natural Language Processing
-- Computer Vision
-- Transformer Architectures
-- Representation Learning
-- Latent Modeling
-- Sequence Modeling
-- Prompt Engineering
-- Model Evaluation
-- Multi-Agent Systems
-- Retrieval-Augmented Generation
-
-### Frameworks and Libraries
-- PyTorch
-- TensorFlow
-- Keras
-- Hugging Face Transformers
-- FastAPI
-- Flask
-- LangChain
-- LangGraph
-- OpenCV
-- React
-- Next.js
-- Postman
-- Pygame
-
-### Data, Infrastructure, and Tooling
-- MySQL
-- Snowflake
-- ChromaDB
-- FAISS
-- Google Cloud Platform
-- Hadoop
-- Git
-- CI/CD
-- Docker
-- Tableau
-- Power BI
-- Informatica IICS
-
-### Core CS Foundations
-- Data Structures and Algorithms
-- Statistical Analysis
-- Data Preprocessing
-- Feature Engineering
-- Semantic Search
-- Vector Search
-- Workflow Automation
-- Optimization Algorithms
-- System Design
-- API Development
+| Area | Skills |
+|------|--------|
+| **Languages** | Python, Java, R, SQL, Shell |
+| **AI / ML** | ML, DL, RL, NLP, CV, Transformers, Representation Learning, Latent Modeling, Sequence Modeling |
+| **LLM / Agents** | Prompt Engineering, Model Evaluation, Multi-Agent Systems, RAG |
+| **Frameworks** | PyTorch, TensorFlow, Keras, Hugging Face, FastAPI, Flask, LangChain, LangGraph |
+| **Full Stack / Tools** | React, Next.js, OpenCV, Postman, Pygame |
+| **Data & Infra** | MySQL, Snowflake, ChromaDB, FAISS, GCP, Hadoop, Git, CI/CD, Docker |
+| **Core CS** | DSA, System Design, API Dev, Optimization, Feature Engineering, Semantic & Vector Search |
 
 ---
 
