@@ -42,7 +42,7 @@ I’m open to a wide range of roles including **AI, ML, software, applied resear
 
 - Artificial Intelligence Roles  
 - Machine Learning Roles  
-- GenAI Roles  
+- GenAI Roles
 - AI Research and Applied Research Roles  
 - Software Development Roles  
 - Intelligent Systems and Product Engineering Roles  
