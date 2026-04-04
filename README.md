@@ -150,9 +150,8 @@ Built a privacy-first AI platform for voice and text interviews to capture post-
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pu1ni2&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pu1ni2&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pu1ni2&theme=default&hide_border=true" />
+<img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Pu1ni2&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Pu1ni2&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
 
 </div>
 
