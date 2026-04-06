@@ -93,7 +93,7 @@ A custom environment modeling adaptive combat behavior using PPO, Genetic Algori
 
 ---
 
-### 🎤 [Voice-Based AI Feedback Tool]
+### 🎤 Voice-Based AI Feedback Tool
 **Public-sector AI feedback system**
 
 Built a privacy-first AI platform for voice and text interviews to capture post-training reflections and structured behavioral outcomes.
