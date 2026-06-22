@@ -107,7 +107,7 @@ Built a privacy-first AI platform for voice and text interviews to capture post-
 | Area | Skills |
 |------|--------|
 | **Languages** | Python, Java, R, SQL, Shell |
-| **AI / ML** | ML, DL, RL, NLP, CV, Transformers, Representation Learning, Latent Modeling, Sequence Modeling |
+| **AI / ML** | ML, DL, RL, NLP, CV, Transformers, Representation Learning, Latent Modeling, Sequence Modeling , Conversational AI|
 | **LLM / Agents** | Prompt Engineering, Model Evaluation, Multi-Agent Systems, RAG |
 | **Frameworks** | PyTorch, TensorFlow, Keras, Hugging Face, FastAPI, Flask, LangChain, LangGraph |
 | **Full Stack / Tools** | React, Next.js, OpenCV, Postman, Pygame |
